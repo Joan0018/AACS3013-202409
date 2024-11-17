@@ -1,34 +1,14 @@
 <div align="center">
 
   <img src="src/banner.svg" alt="logo" height="auto" />
-  <h1>Awesome Readme Template</h1>
+  <h1>Database Development and Applications</h1>
   
   <p>
-    An awesome README template for your projects! 
+    Welcome to the GitHub Repo for AACS3013 Database Development and Applications. 
+  </p> 
+  
+  <p>This repository is designed to help students focus on important topics, spot key questions for midterm and final exams, and enhance their skills in answering questions effectively. Whether you're revising or just starting your preparation, this guide is your companion to succeed!
   </p>
-  
-  
-<!-- Badges -->
-<p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
-  </a>
-</p>
    
 <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
