@@ -12,7 +12,7 @@
 
 ## 📖 What’s Included
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">Important Notes</a>
+    <a href="https://github.com/Joan0018/AACS3013-202409/tree/main/Important%20Notes">Important Notes</a>
   <span> · </span>
     <a href="https://github.com/Louis3797/awesome-readme-template">Exercise</a>
   <span> · </span>
