@@ -16,7 +16,7 @@
   <span> · </span>
     <a href="https://github.com/Joan0018/AACS3013-202409/tree/main/Exercise">Exercise</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Answering Strategies</a>
+    <a href="https://github.com/Joan0018/AACS3013-202409/tree/main/Answering%20Strategies">Answering Strategies</a>
   </h4>
 </div>
 
