@@ -33,57 +33,80 @@
 ## Example
 
 ### 1. ✈️ Airlines and railways
-- Data: Flight number/ departure time/ arrival time/ ticket price.
-- Information: Schedule of the flight on whether any delay during departure or arrival time.
-- Knowledge: 
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
+ 
   
 ### 2. 🏦 Banking
-- Data:
-- Information:
-- Knowledge:
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
   
 ### 3. 🏫 Education
-- Data:
-- Information:
-- Knowledge:
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
   
 ### 4. 🔭 Telecommunications
-- Data:
-- Information:
-- Knowledge:
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
   
 ### 5. 💳 Credit Card Transactions
-- Data:
-- Information:
-- Knowledge:
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
   
 ### 6. 💻 E-commerce
-- Data:
-- Information:
-- Knowledge:
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
   
 ### 7. 👨‍⚕️ Health Care
-- Data:
-- Information:
-- Knowledge:
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
   
 ### 8. 📖 Digital Libraries and Publishing
-- Data:
-- Information:
-- Knowledge:
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
   
 ### 9. 💰 Finance
-- Data:
-- Information:
-- Knowledge:
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
   
 ### 10. 💁 Sales
-- Data:
-- Information:
-- Knowledge:
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
   
 ### 11. 👨‍💼 Human Resources
-- Data:
-- Information:
-- Knowledge:
+<pre>
+  <li>Data: </li>
+  <li>Information: </li>
+  <li>Knowledge:</li>
+</pre>
   
