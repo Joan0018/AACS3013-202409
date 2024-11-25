@@ -1,4 +1,4 @@
-# Chapter 3 - Structured Query Language
+# Chapter 4 - Structured Query Language
 
 ## 1. SELECT Statement
 Retrieves data from one or more tables.
